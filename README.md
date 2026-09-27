@@ -1,16 +1,17 @@
-## Hi there 👋
+# Scriptmonks 🛠️
 
-<!--
-**Scriptmonks/Scriptmonks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Scriptmonks is an independent digital studio specializing in custom web applications, API integrations, and developer tools.
 
-Here are some ideas to get you started:
+### ⚡ What We Do
+* **Custom Commission Work:** Bespoke web apps, internal dashboards, and automation scripts.
+* **In-House Tooling:** Open-source utilities and production-grade software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📩 Connect & Commission
+* **Email:** `script.monks.mail@gmail.com`
+* **Instagram:** [@Script_monks](https://instagram.com/Script_monks)
+
+### Contact Our Developer:
+* **Github:** `@ArthurJosephLawson`
+* **Instagram:** `@monk_mango` 
+
+*Built by Scriptmonks.*
